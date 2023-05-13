@@ -1,2 +1,2 @@
-# pagina
-pagian web de compra y venta
+#p pagina
+pagina web de compra y venta
